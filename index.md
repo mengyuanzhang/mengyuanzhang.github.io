@@ -36,7 +36,7 @@ My research interests include security metrics, software security, attack surfac
 ## News & Highlights
 
 - **New Publication**: "Towards Exploring Cross-Regional and Cross-Platform Differences in Login Throttling", NordSec '24)
-- **PhD Recruitment**: Currently looking for motivated PhD students in data analytics and applied machine learning.
+- **PhD Recruitment**: Currently looking for motivated PhD students in Secure and High-Performance Dynamic Program Analysis for WebAssembly joint supervision with [Dr. Daniele Bonetta](https://danielebonetta.info/).
 
 ## Selected publications ([DBLP](https://dblp.org/pid/150/5462-1.html), [Google Scholar](https://scholar.google.com/citations?user=XebXoxIAAAAJ), [ORCID](https://orcid.org/0000-0001-7457-5198))
 
