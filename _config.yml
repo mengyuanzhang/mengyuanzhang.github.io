@@ -1,0 +1,15 @@
+title: "Mengyuan (Maggie) Zhang"
+description: "Assistant Professor at the VU Amsterdam"
+baseurl: ""
+url: "https://yourusername.github.io"
+
+theme: "minimal-mistakes-jekyll"
+
+author:
+  name: "Mengyuan (Maggie) Zhang"
+
+atom_feed:
+  hide: true  
+
+markdown: kramdown
+permalink: /:categories/:title/
