@@ -13,3 +13,6 @@ atom_feed:
 
 markdown: kramdown
 permalink: /:categories/:title/
+
+plugins:
+  - jekyll-include-cache
