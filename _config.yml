@@ -1,9 +1,9 @@
 title: "Mengyuan (Maggie) Zhang"
 description: "Assistant Professor at the VU Amsterdam"
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://mengyuanzhang.github.io"
 
-theme: "minimal-mistakes-jekyll"
+remote_theme: mmistakes/minimal-mistakes
 
 author:
   name: "Mengyuan (Maggie) Zhang"
