@@ -12,16 +12,16 @@ permalink: /research/
 
 - Minjie Cai, Xavier de Carné de Carnavalet, Siqi Zhang, Lianying Zhao, **Mengyuan Zhang**,
   "Towards Exploring Cross-Regional and Cross-Platform Differences in Login Throttling",
-  *Nordic Conference on Secure IT systems (**NordSec '24**)*, Karlstad, Sweden, Nov. 2024.
+  *Nordic Conference on Secure IT systems (**NordSec '24**)*, Karlstad, Sweden, Nov. 2024. [[author copy]({% link papers/login-throttling-nordsec24.pdf %})]
 - Onur Duman, **Mengyuan Zhang**, Lingyu Wang, Mourad Debbabi,
   "[SecMonS: A Security Monitoring Framework for IEC 61850 Substations Based on Configuration Files and Logs](https://link.springer.com/chapter/10.1007/978-3-031-64171-8_25)",
   *Conference on Detection of Intrusions and Malware & Vulnerability Assessment (**DIMVA '24**)*, Lausanne, Switzerland, July 17-19, 2024.
 - Junjian Ye, Xavier de Carné de Carnavalet, **Mengyuan Zhang**, Lianying Zhao, Lifa Wu, Wei Zhang,
   "[Exposed by Default: A Security Analysis of Home Router Default Settings](https://dl.acm.org/doi/10.1145/3634737.3637671),"
-  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS '24)*, Singapore, July 1-5, 2024. [[author copy]({% link papers/routers-default-settings-asiaccs2024.pdf %})]
+  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS '24)*, Singapore, July 1-5, 2024. [[author copy]({% link papers/routers-default-settings-asiaccs24.pdf %})]
 - Siqi Zhang, Minjie Cai, **Mengyuan Zhang**, Lianying Zhao, Xavier de Carné de Carnavalet,
   "[The Flaw Within: Identifying CVSS Scores Discrepancies in the NVD](https://ieeexplore.ieee.org/document/10475839),"
-  *IEEE International Conference on Cloud Computing Technology and Science (**CloudCom '23**)*, Napoli, Italy, Dec. 4-6, 2023. [[author copy]({% link papers/inconsistency-nvd-cloudcom2023.pdf %})]
+  *IEEE International Conference on Cloud Computing Technology and Science (**CloudCom '23**)*, Napoli, Italy, Dec. 4-6, 2023. [[author copy]({% link papers/inconsistency-nvd-cloudcom23.pdf %})]
 - Siqi Zhang, **Mengyuan Zhang**, Lianying Zhao,
   "[VIET: A Tool for Extracting Essential Information from Vulnerability Descriptions for CVSS Evaluation](https://link.springer.com/chapter/10.1007/978-3-031-37586-6_23),"
   *IFIP Annual Conference on Data and Applications Security and Privacy (**DBSec '23**)*, Sophia Antipolis, France, July 19-21, 2023. [[author copy]({% link papers/VIET-dbsec23.pdf %})]

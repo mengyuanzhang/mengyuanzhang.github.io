@@ -35,7 +35,7 @@ My research interests include security metrics, software security, attack surfac
 
 ## News & Highlights
 
-- **New Publication**: "Towards Exploring Cross-Regional and Cross-Platform Differences in Login Throttling", NordSec '24, to appear)
+- **New Publication**: "Towards Exploring Cross-Regional and Cross-Platform Differences in Login Throttling", NordSec '24)
 - **PhD Recruitment**: Currently looking for motivated PhD students in data analytics and applied machine learning.
 
 ## Selected publications ([DBLP](https://dblp.org/pid/150/5462-1.html), [Google Scholar](https://scholar.google.com/citations?user=XebXoxIAAAAJ), [ORCID](https://orcid.org/0000-0001-7457-5198))
@@ -45,7 +45,7 @@ My research interests include security metrics, software security, attack surfac
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**)*, vol. 21, no. 4, July-Aug. 2024, pp. 2964-2981. [[author copy]({% link papers/CIT-tdsc.pdf %})]
 - Siqi Zhang, Minjie Cai, **Mengyuan Zhang**, Lianying Zhao, Xavier de Carné de Carnavalet,
   "[The Flaw Within: Identifying CVSS Scores Discrepancies in the NVD](https://ieeexplore.ieee.org/document/10475839),"
-  *IEEE International Conference on Cloud Computing Technology and Science (**CloudCom '23**)*, Napoli, Italy, Dec. 4-6, 2023. [[author copy]({% link papers/inconsistency-nvd-cloudcom2023.pdf %})]
+  *IEEE International Conference on Cloud Computing Technology and Science (**CloudCom '23**)*, Napoli, Italy, Dec. 4-6, 2023. [[author copy]({% link papers/inconsistency-nvd-cloudcom23.pdf %})]
 - Siqi Zhang, **Mengyuan Zhang**, Lianying Zhao,
   "[VIET: A Tool for Extracting Essential Information from Vulnerability Descriptions for CVSS Evaluation](https://link.springer.com/chapter/10.1007/978-3-031-37586-6_23),"
   *IFIP Annual Conference on Data and Applications Security and Privacy (**DBSec '23**)*, Sophia Antipolis, France, July 19-21, 2023. [[author copy]({% link papers/VIET-dbsec23.pdf %})]
