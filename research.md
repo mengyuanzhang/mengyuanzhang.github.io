@@ -18,7 +18,7 @@ permalink: /research/
   *Conference on Detection of Intrusions and Malware & Vulnerability Assessment (**DIMVA '24**)*, Lausanne, Switzerland, July 17-19, 2024.
 - Junjian Ye, Xavier de Carné de Carnavalet, **Mengyuan Zhang**, Lianying Zhao, Lifa Wu, Wei Zhang,
   "[Exposed by Default: A Security Analysis of Home Router Default Settings](https://dl.acm.org/doi/10.1145/3634737.3637671),"
-  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS '24)*, Singapore, July 1-5, 2024. [[author copy]({% link papers/routers-default-settings-asiaccs24.pdf %})]
+  *ACM ASIA Conference on Computer and Communications Security (**AsiaCCS '24**)*, Singapore, July 1-5, 2024. [[author copy]({% link papers/routers-default-settings-asiaccs24.pdf %})]
 - Siqi Zhang, Minjie Cai, **Mengyuan Zhang**, Lianying Zhao, Xavier de Carné de Carnavalet,
   "[The Flaw Within: Identifying CVSS Scores Discrepancies in the NVD](https://ieeexplore.ieee.org/document/10475839),"
   *IEEE International Conference on Cloud Computing Technology and Science (**CloudCom '23**)*, Napoli, Italy, Dec. 4-6, 2023. [[author copy]({% link papers/inconsistency-nvd-cloudcom23.pdf %})]
@@ -68,6 +68,7 @@ permalink: /research/
 
 ### Journal articles
 
+- Junjian Ye, Xavier de Carné de Carnavalet Lianying Zhao, **Mengyuan Zhang**, Lifa Wu, Wei Zhang, "[Exposed by Default: A Security Analysis of Home Router Default Settings and Beyond](https://ieeexplore.ieee.org/document/10758308)," Accepted in IEEE Internet of Things Journal (IEEE IoT-J).
 - Junjian Ye, Xincheng Fei, Xavier de Carné de Carnavalet, Lianying Zhao, Lifa Wu, **Mengyuan Zhang**,
   "[Detecting Command Injection Vulnerabilities in Linux-Based Embedded Firmware with LLM-based Taint Analysis of Library Functions](https://dl.acm.org/doi/10.1145/3597926.3598062),"
   *Elsevier Computers & Security*, 144, 103971, September 2024. [[author copy]({% link papers/SLFHunter_CS.pdf %})]
