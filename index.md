@@ -42,7 +42,7 @@ My research interests include security metrics, software security, vulnerability
 ## Selected publications ([DBLP](https://dblp.org/pid/150/5462-1.html), [Google Scholar](https://scholar.google.com/citations?user=XebXoxIAAAAJ), [ORCID](https://orcid.org/0000-0001-7457-5198))
 
 - Junjian Ye, Xavier de Carné de Carnavalet, Lianying Zhao, Lifa Wu, **Mengyuan Zhang**. 
-	"[Understanding Home Router Configuration Habits & Attitudes] (https://dl.acm.org/doi/10.1145/3706598.3714231)",
+	"[Understanding Home Router Configuration Habits & Attitudes](https://dl.acm.org/doi/10.1145/3706598.3714231)",
 	*ACM CHI Conference on Human Factors in Computing Systems (**CHI**)*, Yokohama, Japan, April 26-May 1, 2025. [[author copy]({% link papers/Router-CHI25.pdf %})]
 - Sudershan Lakshmanan, **Mengyuan Zhang**, Suryadipta Majumdar, Yosr Jarraya, Makan Pourzandi, Lingyu Wang,
   "[Caught-in-Translation (CiT): Detecting Cross-level Inconsistency Attacks in Network Functions Virtualization (NFV)](https://ieeexplore.ieee.org/document/10268045)",
