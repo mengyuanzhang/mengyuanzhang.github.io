@@ -9,9 +9,11 @@ permalink: /research/
 - [DBLP](https://dblp.org/pid/150/5462-1.html), [Google Scholar](https://scholar.google.com/citations?user=XebXoxIAAAAJ), [ORCID](https://orcid.org/0000-0001-7457-5198)
 
 ### Conference papers
-
+- Junjian Ye, Xavier de Carné de Carnavalet, Lianying Zhao, Lifa Wu, **Mengyuan Zhang**. 
+	"[Understanding Home Router Configuration Habits & Attitudes](https://dl.acm.org/doi/10.1145/3706598.3714231)",
+	*ACM CHI Conference on Human Factors in Computing Systems (**CHI '25'**)*, Yokohama, Japan, April 26-May 1, 2025. [[author copy]({% link papers/Router-CHI25.pdf %})]
 - Minjie Cai, Xavier de Carné de Carnavalet, Siqi Zhang, Lianying Zhao, **Mengyuan Zhang**,
-  "Towards Exploring Cross-Regional and Cross-Platform Differences in Login Throttling",
+  "[Towards Exploring Cross-Regional and Cross-Platform Differences in Login Throttling](https://dl.acm.org/doi/10.1007/978-3-031-79007-2_2)",
   *Nordic Conference on Secure IT systems (**NordSec '24**)*, Karlstad, Sweden, Nov. 2024. [[author copy]({% link papers/login-throttling-nordsec24.pdf %})]
 - Onur Duman, **Mengyuan Zhang**, Lingyu Wang, Mourad Debbabi,
   "[SecMonS: A Security Monitoring Framework for IEC 61850 Substations Based on Configuration Files and Logs](https://link.springer.com/chapter/10.1007/978-3-031-64171-8_25)",
@@ -68,7 +70,9 @@ permalink: /research/
 
 ### Journal articles
 
-- Junjian Ye, Xavier de Carné de Carnavalet Lianying Zhao, **Mengyuan Zhang**, Lifa Wu, Wei Zhang, "[Exposed by Default: A Security Analysis of Home Router Default Settings and Beyond](https://ieeexplore.ieee.org/document/10758308)," Accepted in IEEE Internet of Things Journal (IEEE IoT-J).
+- Junjian Ye, Xavier de Carné de Carnavalet Lianying Zhao, **Mengyuan Zhang**, Lifa Wu, Wei Zhang, 
+	"[Exposed by Default: A Security Analysis of Home Router Default Settings and Beyond](https://ieeexplore.ieee.org/document/10758308)," 
+IEEE Internet of Things Journal (IEEE IoT-J), vol. 12, no. 2, Jan. 2025, pp. 1182-1199. [[author copy]({% link papers/routers-default-settings-iotj-25.pdf %})]
 - Junjian Ye, Xincheng Fei, Xavier de Carné de Carnavalet, Lianying Zhao, Lifa Wu, **Mengyuan Zhang**,
   "[Detecting Command Injection Vulnerabilities in Linux-Based Embedded Firmware with LLM-based Taint Analysis of Library Functions](https://dl.acm.org/doi/10.1145/3597926.3598062),"
   *Elsevier Computers & Security*, 144, 103971, September 2024. [[author copy]({% link papers/SLFHunter_CS.pdf %})]

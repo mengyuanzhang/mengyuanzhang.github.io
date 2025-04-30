@@ -10,7 +10,7 @@ title: "About"
 Since 2024, I am an Assistant Professor at the [Vrije Universiteit (VU) Amsterdam](https://vu.nl/en) in the [Foundational and Experimental Security](https://vu.nl/en/about-vu/faculties/faculty-of-science/more-about/foundational-and-experimental-security-computer-science) group of the [Department of Computer Science](https://vu.nl/en/about-vu/faculties/faculty-of-science/departments/computer-science).
 Previously, I worked as a Research Assistant Professor in the [Department of Computing](https://www.polyu.edu.hk/en/comp/) at [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) and as an Experienced Researcher at [Ericsson Research Canada](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/canada). I received my B.E. and M.E. in Information Security from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/), and hold a Ph.D. in Information and Systems Engineering from [Concordia University](https://www.concordia.ca/), Montreal, Canada, under the supervision of [Prof. Lingyu Wang](https://users.encs.concordia.ca/~wang/).
 
-My research interests include security metrics, software security, attack surface, cloud computing/5G security and privacy, and applied machine learning in security.
+My research interests include security metrics, software security, vulnerability assessment, cloud computing/5G security and privacy, and applied machine learning in security.
 
 ## Contact
 
@@ -34,12 +34,16 @@ My research interests include security metrics, software security, attack surfac
 </script>
 
 ## News & Highlights
-
+- **New Publication**: "Understanding Home Router Configuration Habits & Attitudes", CHI '25
+- **Invited Talk**: "[Ask Not Whether CVSSv3.1 and v4 Scores are Inconsistent, But What Can You Do About It](https://www.first.org/conference/vulncon2025/program#pAsk-Not-Whether-CVSSv3-1-and-v4-Scores-are-Inconsistent-But-What-Can-You-Do-About-It)", Vunlcon '25 (hosted by FIRST and the CVE Program)
 - **New Publication**: "Towards Exploring Cross-Regional and Cross-Platform Differences in Login Throttling", NordSec '24
 - **PhD Recruitment**: Currently looking for a motivated PhD student in Secure and High-Performance Dynamic Program Analysis for WebAssembly joint supervision with [Dr. Daniele Bonetta](https://danielebonetta.info/). Apply [here](https://workingat.vu.nl/vacancies/secure-and-high-performance-dynamic-program-analysis-for-webassembly-amsterdam-1124599).
 
 ## Selected publications ([DBLP](https://dblp.org/pid/150/5462-1.html), [Google Scholar](https://scholar.google.com/citations?user=XebXoxIAAAAJ), [ORCID](https://orcid.org/0000-0001-7457-5198))
 
+- Junjian Ye, Xavier de Carné de Carnavalet, Lianying Zhao, Lifa Wu, **Mengyuan Zhang**. 
+	"[Understanding Home Router Configuration Habits & Attitudes] (https://dl.acm.org/doi/10.1145/3706598.3714231)",
+	*ACM CHI Conference on Human Factors in Computing Systems (**CHI**)*, Yokohama, Japan, April 26-May 1, 2025. [[author copy]({% link papers/Router-CHI25.pdf %})]
 - Sudershan Lakshmanan, **Mengyuan Zhang**, Suryadipta Majumdar, Yosr Jarraya, Makan Pourzandi, Lingyu Wang,
   "[Caught-in-Translation (CiT): Detecting Cross-level Inconsistency Attacks in Network Functions Virtualization (NFV)](https://ieeexplore.ieee.org/document/10268045)",
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**)*, vol. 21, no. 4, July-Aug. 2024, pp. 2964-2981. [[author copy]({% link papers/CIT-tdsc.pdf %})]
