@@ -9,6 +9,9 @@ permalink: /research/
 - [DBLP](https://dblp.org/pid/150/5462-1.html), [Google Scholar](https://scholar.google.com/citations?user=XebXoxIAAAAJ), [ORCID](https://orcid.org/0000-0001-7457-5198)
 
 ### Conference papers
+- Clément Duchesne, Johannes Härtel, Fabio Massacci, **Mengyuan Zhang**, Agathe Blaise. "An AI Security Testbed for the 5G Core"
+"An AI Security Testbed for the 5G Core"
+*IEEE International Conference on Cloud Computing Technology and Science (**CloudCom '25**)*, Shenzhen, China, Nov. 14-16, 2025.
 - Junjian Ye, Xavier de Carné de Carnavalet, Lianying Zhao, Lifa Wu, **Mengyuan Zhang**. 
 	"[Understanding Home Router Configuration Habits & Attitudes](https://dl.acm.org/doi/10.1145/3706598.3714231)",
 	*ACM CHI Conference on Human Factors in Computing Systems (**CHI '25'**)*, Yokohama, Japan, April 26-May 1, 2025. [[author copy]({% link papers/Router-CHI25.pdf %})]
@@ -69,7 +72,9 @@ permalink: /research/
 
 
 ### Journal articles
-
+- Alaa Oqaily, Mohammad Ekramul Kabir, Lingyu Wang, Yosr Jarraya, Suryadipta Majumdar, Makan Pourzandi, Mourad Debbabi, Sudershan L T, **Mengyuan Zhang**, 
+	“[Cross-Level Security Verification for Network Functions Virtualization (NFV)](https://research.vu.nl/ws/portalfiles/portal/441310251/Cross-Level_Security_Verification_for_Network_Functions_Virtualization_NFV.pdf),” 
+	IEEE Transactions on Dependable and Secure Computing (TDSC), vol. 22, no. 4, pages 3240-3258, 2025
 - Junjian Ye, Xavier de Carné de Carnavalet Lianying Zhao, **Mengyuan Zhang**, Lifa Wu, Wei Zhang, 
 	"[Exposed by Default: A Security Analysis of Home Router Default Settings and Beyond](https://ieeexplore.ieee.org/document/10758308)," 
 IEEE Internet of Things Journal (IEEE IoT-J), vol. 12, no. 2, Jan. 2025, pp. 1182-1199. [[author copy]({% link papers/routers-default-settings-iotj-25.pdf %})]
