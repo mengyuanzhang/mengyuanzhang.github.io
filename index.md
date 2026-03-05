@@ -37,6 +37,8 @@ My research interests include security quantification, security metrics, softwar
 </script>
 
 ## News & Highlights
+- **New Publication**: "Tool-Assisted CVSS Vulnerability Scoring: A Controlled Quantitative Study of Human Assessment", CHI '26, Congrats Siqi and Minjie
+- **New Publication**: "NeuroWise: A Multi-Agent LLM "Glass-Box" System for Practicing Double-Empathy Communication with Autistic Partners", CHI '26 Posters
 - **Keynote**:"[Quantifiable Security: Challenges and Opportunities in the Age of AI](https://secai-accss.github.io/workshop)", ACCSS Security & AI Workshop: Security and Privacy in the Age of Generative AI, Oct. 23rd, 2025
 - **New Publication**: "An AI Security Testbed for the 5G Core", CloudCom '25
 - **New Student**: Apoorva Anand has started his Ph.D. journey 

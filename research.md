@@ -9,8 +9,13 @@ permalink: /research/
 - [DBLP](https://dblp.org/pid/150/5462-1.html), [Google Scholar](https://scholar.google.com/citations?user=XebXoxIAAAAJ), [ORCID](https://orcid.org/0000-0001-7457-5198)
 
 ### Conference papers
-- Clément Duchesne, Johannes Härtel, Fabio Massacci, **Mengyuan Zhang**, Agathe Blaise. "An AI Security Testbed for the 5G Core"
-"An AI Security Testbed for the 5G Core"
+- Siqi Zhang, Minjie Cai, Lianying Zhao, Xavier de Carné de Carnavalet, Fabio Massacci, **Mengyuan Zhang**. 
+	"Tool-Assisted CVSS Vulnerability Scoring: A Controlled Quantitative Study of Human Assessment",
+	*ACM CHI Conference on Human Factors in Computing Systems (**CHI '26'**)*, Barcelona, Spain, April 13-April 17, 2026. 
+- Albert Tang, Yifan Mo, Jieli, Yue Su, **Mengyuan Zhang**, Sander L. Koole, Koen Hindriks, Jiahuan Pei. 
+	"NeuroWise: A Multi-Agent LLM "Glass-Box" System for Practicing Double-Empathy Communication with Autistic Partners",
+	*Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (**CHI EA '26'**)*, Barcelona, Spain, April 13-April 17, 2026. 
+- Clément Duchesne, Johannes Härtel, Fabio Massacci, **Mengyuan Zhang**, Agathe Blaise. "[An AI Security Testbed for the 5G Core](https://hal.science/hal-05376556v1/document)",
 *IEEE International Conference on Cloud Computing Technology and Science (**CloudCom '25**)*, Shenzhen, China, Nov. 14-16, 2025.
 - Junjian Ye, Xavier de Carné de Carnavalet, Lianying Zhao, Lifa Wu, **Mengyuan Zhang**. 
 	"[Understanding Home Router Configuration Habits & Attitudes](https://dl.acm.org/doi/10.1145/3706598.3714231)",
