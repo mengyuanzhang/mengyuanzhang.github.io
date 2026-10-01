@@ -22,5 +22,5 @@ permalink: /students/
 - Meisam Mohammady, Ph.D. student @ Concordia University (Now work as an Assistant Professor at Iowa State University)
 - Azadeh Tabiban, Ph.D. student @ Concordia University (Now work as an Assistant Professor at University of Manitoba)
 - Taous Madi, Ph.D. student @ Concordia University (Ericsson Research)
-- Gagandeep Singh Chawla (Amazon Canada)
+- Gagandeep Singh Chawla Master's student @ Concordia University (Amazon Canada)
 - Mina Khalili, Master's student @ Concordia University (Bell Canada)
