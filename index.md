@@ -53,17 +53,4 @@ My research interests include security quantification, security metrics, softwar
 - **Invited Talk**: "[Ask Not Whether CVSSv3.1 and v4 Scores are Inconsistent, But What Can You Do About It](https://www.first.org/conference/vulncon2025/program#pAsk-Not-Whether-CVSSv3-1-and-v4-Scores-are-Inconsistent-But-What-Can-You-Do-About-It)", Vunlcon '25 (hosted by FIRST and the CVE Program)
 
 
-## Selected publications ([DBLP](https://dblp.org/pid/150/5462-1.html), [Google Scholar](https://scholar.google.com/citations?user=XebXoxIAAAAJ), [ORCID](https://orcid.org/0000-0001-7457-5198))
 
-- Junjian Ye, Xavier de Carné de Carnavalet, Lianying Zhao, Lifa Wu, **Mengyuan Zhang**. 
-	"[Understanding Home Router Configuration Habits & Attitudes](https://dl.acm.org/doi/10.1145/3706598.3714231)",
-	*ACM CHI Conference on Human Factors in Computing Systems (**CHI '25'**)*, Yokohama, Japan, April 26-May 1, 2025. [[author copy]({% link papers/Router-CHI25.pdf %})]
-- Sudershan Lakshmanan, **Mengyuan Zhang**, Suryadipta Majumdar, Yosr Jarraya, Makan Pourzandi, Lingyu Wang,
-  "[Caught-in-Translation (CiT): Detecting Cross-level Inconsistency Attacks in Network Functions Virtualization (NFV)](https://ieeexplore.ieee.org/document/10268045)",
-  *IEEE Transactions on Dependable and Secure Computing (**TDSC '24'**)*, vol. 21, no. 4, July-Aug. 2024, pp. 2964-2981. [[author copy]({% link papers/CIT-tdsc.pdf %})]
-- Siqi Zhang, Minjie Cai, **Mengyuan Zhang**, Lianying Zhao, Xavier de Carné de Carnavalet,
-  "[The Flaw Within: Identifying CVSS Scores Discrepancies in the NVD](https://ieeexplore.ieee.org/document/10475839),"
-  *IEEE International Conference on Cloud Computing Technology and Science (**CloudCom '23**)*, Napoli, Italy, Dec. 4-6, 2023. [[author copy]({% link papers/inconsistency-nvd-cloudcom23.pdf %})]
-- Siqi Zhang, **Mengyuan Zhang**, Lianying Zhao,
-  "[VIET: A Tool for Extracting Essential Information from Vulnerability Descriptions for CVSS Evaluation](https://link.springer.com/chapter/10.1007/978-3-031-37586-6_23),"
-  *IFIP Annual Conference on Data and Applications Security and Privacy (**DBSec '23**)*, Sophia Antipolis, France, July 19-21, 2023. [[author copy]({% link papers/VIET-dbsec23.pdf %})]
