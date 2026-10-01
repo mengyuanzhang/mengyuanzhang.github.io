@@ -7,7 +7,7 @@ title: "About"
 ## About Me
 
 <img src="/assets/images/maggie.jpg" alt="Myself" id="profile-pic" width="160" />
-Since 2024, I am an Assistant Professor at the [Vrije Universiteit (VU) Amsterdam](https://vu.nl/en) in the [Foundational and Experimental Security](https://vu.nl/en/about-vu/faculties/faculty-of-science/more-about/foundational-and-experimental-security-computer-science) group of the [Department of Computer Science](https://vu.nl/en/about-vu/faculties/faculty-of-science/departments/computer-science).
+I am a Tenured Assistant Professor 1st Class (UD1) at the [Vrije Universiteit (VU) Amsterdam](https://vu.nl/en) in the [Foundational and Experimental Security](https://vu.nl/en/about-vu/faculties/faculty-of-science/more-about/foundational-and-experimental-security-computer-science) group of the [Department of Computer Science](https://vu.nl/en/about-vu/faculties/faculty-of-science/departments/computer-science).
 Previously, I worked as a Research Assistant Professor in the [Department of Computing](https://www.polyu.edu.hk/en/comp/) at [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) and as an 
 Experienced Researcher at [Ericsson Research Canada](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/canada). 
 I received my B.E. and M.E. in Information Security from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/), 

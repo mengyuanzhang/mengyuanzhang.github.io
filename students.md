@@ -12,6 +12,13 @@ permalink: /students/
 
 ## Alumni
 - Junjian Ye, Ph.D. student @ [NUPT](https://www.njupt.edu.cn/) (co-supervised)
-- Siqi Zhang, Research Assistant (co-supervised), the Hong Kong Polytechnic University
 - Yujia Xiao, Master's student, the Hong Kong Polytechnic University
-- Sudershan L. T. (joint supervision with Dr. Lingyu Wang), Concordia University
+- Sudershan L. T., (joint supervision with Dr. Lingyu Wang), Concordia University
+- Meisam Mohammady, Ph.D. student @ Concordia University (Now work as an Assistant Professor at Iowa State University)
+- Azadeh Tabiban, Ph.D. student @ Concordia University (Now work as an Assistant Professor at University of Manitoba)
+- Taous Madi, Ph.D. student @ Concordia University (Ericsson Research)
+- Onur Duman, Ph.D. student @ Concordia University (Now work as a Lecturer in Cyber Security and Networks at Glasgow Caledonian University)
+- Momen Oqaily, Ph.D. student @ Concordia University
+- Alaa Oqaily, Ph.D. student @ Concordia University
+- Gagandeep Singh Chawla (Amazon Canada)
+- Mina Khalili, Master's student @ Concordia University (Bell Canada)
