@@ -4,8 +4,8 @@ title: "Research"
 permalink: /research/
 ---
 
-##Peer-reviewing and professional service
-- Chair of [Security and Defense Specialty Group of the Society of Risk Analysis (SRA)](https://www.sra.org/risk-analysis-specialty-groups/security-and-defense/current-officers/ )
+## Peer-reviewing and professional service
+- Chair of [Security and Defense Specialty Group of the Society of Risk Analysis (SRA)](https://www.sra.org/risk-analysis-specialty-groups/security-and-defense/current-officers/)
 - TPC: FSE'27, AsiaCCS'26, ICSME'26, Cloud S&P, PST, SecureComm, NSS
 - Publicity chair SecureComm'23
 - Reviewer for IEEE TDSC, IEEE TIFS, IEEE TOPS, IEEE TSG, IJIS, CHI, NeurIPS
