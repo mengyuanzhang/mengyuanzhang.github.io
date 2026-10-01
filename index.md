@@ -37,6 +37,10 @@ My research interests include security quantification, security metrics, softwar
 </script>
 
 ## News & Highlights
+- I am serving as Chair of the Security and Defense Specialty Group of the Society for Risk Analysis (SRA)
+- **New Publication**: "EDMA: Entropy-Driven Multimodal Answering", NeurIPS' 26, Congrats Emanuele
+- **New Publication**: "Unavailable, Undocumented, or Unbuildable: A Reproducibility Study of WebAssembly Benchmarks", ICSME '26, Congrats Apoorva
+- **New Student**: Elias has started his Ph.D. journey
 - **New Publication**: "Tool-Assisted CVSS Vulnerability Scoring: A Controlled Quantitative Study of Human Assessment", CHI '26, Congrats Siqi and Minjie
 - **New Publication**: "NeuroWise: A Multi-Agent LLM "Glass-Box" System for Practicing Double-Empathy Communication with Autistic Partners", CHI '26 Posters
 - **Keynote**:"[Quantifiable Security: Challenges and Opportunities in the Age of AI](https://secai-accss.github.io/workshop)", ACCSS Security & AI Workshop: Security and Privacy in the Age of Generative AI, Oct. 23rd, 2025
@@ -53,10 +57,10 @@ My research interests include security quantification, security metrics, softwar
 
 - Junjian Ye, Xavier de Carné de Carnavalet, Lianying Zhao, Lifa Wu, **Mengyuan Zhang**. 
 	"[Understanding Home Router Configuration Habits & Attitudes](https://dl.acm.org/doi/10.1145/3706598.3714231)",
-	*ACM CHI Conference on Human Factors in Computing Systems (**CHI**)*, Yokohama, Japan, April 26-May 1, 2025. [[author copy]({% link papers/Router-CHI25.pdf %})]
+	*ACM CHI Conference on Human Factors in Computing Systems (**CHI '25'**)*, Yokohama, Japan, April 26-May 1, 2025. [[author copy]({% link papers/Router-CHI25.pdf %})]
 - Sudershan Lakshmanan, **Mengyuan Zhang**, Suryadipta Majumdar, Yosr Jarraya, Makan Pourzandi, Lingyu Wang,
   "[Caught-in-Translation (CiT): Detecting Cross-level Inconsistency Attacks in Network Functions Virtualization (NFV)](https://ieeexplore.ieee.org/document/10268045)",
-  *IEEE Transactions on Dependable and Secure Computing (**TDSC**)*, vol. 21, no. 4, July-Aug. 2024, pp. 2964-2981. [[author copy]({% link papers/CIT-tdsc.pdf %})]
+  *IEEE Transactions on Dependable and Secure Computing (**TDSC '24'**)*, vol. 21, no. 4, July-Aug. 2024, pp. 2964-2981. [[author copy]({% link papers/CIT-tdsc.pdf %})]
 - Siqi Zhang, Minjie Cai, **Mengyuan Zhang**, Lianying Zhao, Xavier de Carné de Carnavalet,
   "[The Flaw Within: Identifying CVSS Scores Discrepancies in the NVD](https://ieeexplore.ieee.org/document/10475839),"
   *IEEE International Conference on Cloud Computing Technology and Science (**CloudCom '23**)*, Napoli, Italy, Dec. 4-6, 2023. [[author copy]({% link papers/inconsistency-nvd-cloudcom23.pdf %})]

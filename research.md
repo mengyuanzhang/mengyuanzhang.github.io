@@ -4,17 +4,30 @@ title: "Research"
 permalink: /research/
 ---
 
+##Peer-reviewing and professional service
+- Chair of [Security and Defense Specialty Group of the Society of Risk Analysis (SRA)](https://www.sra.org/risk-analysis-specialty-groups/security-and-defense/current-officers/ )
+- TPC: FSE'27, AsiaCCS'26, ICSME'26, Cloud S&P, PST, SecureComm, NSS
+- Publicity chair SecureComm'23
+- Reviewer for IEEE TDSC, IEEE TIFS, IEEE TOPS, IEEE TSG, IJIS, CHI, NeurIPS
+- External Reviewer: CCS, ESORICS, PETS, DBSec
+- Host academic events at PolyU-HK
+
+
 ## Publications
 
 - [DBLP](https://dblp.org/pid/150/5462-1.html), [Google Scholar](https://scholar.google.com/citations?user=XebXoxIAAAAJ), [ORCID](https://orcid.org/0000-0001-7457-5198)
 
 ### Conference papers
+- Emanuele Mezzi, Gertjan J. Burghouts, Fabio Massacci, Mengyuan Zhang, "EDMA: Entropy-Driven Multimodal Answering", 
+	*Accepted at The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS' 26**)* 
+- Apoorva Anand, Daniele Bonetta, **Mengyuan Zhang**, "Unavailable, Undocumented, or Unbuildable: A Reproducibility Study of WebAssembly Benchmarks",
+ *International Conference on Software Maintenance and Evolution (**ICSME' 26**)*, Benevento, Italy, September 14-September 18, 2026.
 - Siqi Zhang, Minjie Cai, Lianying Zhao, Xavier de Carné de Carnavalet, Fabio Massacci, **Mengyuan Zhang**. 
 	"Tool-Assisted CVSS Vulnerability Scoring: A Controlled Quantitative Study of Human Assessment",
-	*ACM CHI Conference on Human Factors in Computing Systems (**CHI '26'**)*, Barcelona, Spain, April 13-April 17, 2026. 
+	*ACM CHI Conference on Human Factors in Computing Systems (**CHI '26**)*, Barcelona, Spain, April 13-April 17, 2026. 
 - Albert Tang, Yifan Mo, Jieli, Yue Su, **Mengyuan Zhang**, Sander L. Koole, Koen Hindriks, Jiahuan Pei. 
 	"NeuroWise: A Multi-Agent LLM "Glass-Box" System for Practicing Double-Empathy Communication with Autistic Partners",
-	*Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (**CHI EA '26'**)*, Barcelona, Spain, April 13-April 17, 2026. 
+	*Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (**CHI EA '26**)*, Barcelona, Spain, April 13-April 17, 2026. 
 - Clément Duchesne, Johannes Härtel, Fabio Massacci, **Mengyuan Zhang**, Agathe Blaise. "[An AI Security Testbed for the 5G Core](https://hal.science/hal-05376556v1/document)",
 *IEEE International Conference on Cloud Computing Technology and Science (**CloudCom '25**)*, Shenzhen, China, Nov. 14-16, 2025.
 - Junjian Ye, Xavier de Carné de Carnavalet, Lianying Zhao, Lifa Wu, **Mengyuan Zhang**. 
